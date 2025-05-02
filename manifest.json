@@ -1,0 +1,8 @@
+{
+  "visualization": "https://FlavienAviaco.github.io/looker-viz-safety-s/fullViz.js",
+  "config": "https://FlavienAviaco.github.io/looker-viz-safety-s/config.json",
+  "name": "Calendrier S Sécurité",
+  "description": "Visualisation en forme de S avec code couleur selon la criticité",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/VisualEditor_icon_visualEditor-desktop.svg/2048px-VisualEditor_icon_visualEditor-desktop.svg.png",
+  "supportUrl": "https://github.com/FlavienAviaco/looker-viz-safety-s"
+}
